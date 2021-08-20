@@ -1,6 +1,6 @@
 #txt,json, word, csv, pdf
 #json, csv or pandas, mypdf
-
+#######################################
 # file_obj=open("garima.txt","w")
 # file_obj.write("welcome to india")
 # file_obj.close()
@@ -266,7 +266,7 @@
 #     #writing the data rows
 #     csvwriter.writerows(rows)
 
-
+#########################
 # import csv
 # mydict=[{'branch':'COE','cgpa':'9.0','name':'Nikhil','year':'2'}]
 # fields=['name','branch','year','cgpa']
